@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="opencsv">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../9 вариант/FinalProjectJava-main/lib/opencsv" />
+      <root url="jar://$PROJECT_DIR$/../9 вариант/FinalProjectJava-main/lib/jfreechart-demo-1.5.2-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../9 вариант/FinalProjectJava-main/lib/opencsv" recursive="false" />
+  </library>
+</component>

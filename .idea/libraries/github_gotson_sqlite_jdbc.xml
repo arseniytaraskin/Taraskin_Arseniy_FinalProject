@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.gotson.sqlite.jdbc" type="repository">
+    <properties maven-id="com.github.gotson:sqlite-jdbc:3.32.3.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/gotson/sqlite-jdbc/3.32.3.8/sqlite-jdbc-3.32.3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
